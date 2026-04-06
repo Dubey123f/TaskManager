@@ -36,7 +36,7 @@ task-manager/
 ### 1. Clone the project
 
 ```bash
-git clone <https://github.com/Dubey123f/TaskManager.git>
+git clone https://github.com/Dubey123f/TaskManager.git
 cd task-manager
 ```
 
