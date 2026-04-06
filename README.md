@@ -181,6 +181,3 @@ npm run lint
 - `node_modules` and `.env` are ignored by git in both client and server folders.
 - Admin accounts can be created by sending `role: "admin"` during registration or by updating the user directly in MongoDB.
 
-## License
-
-ISC
